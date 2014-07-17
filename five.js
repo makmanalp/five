@@ -18,6 +18,7 @@
   five.slovenian = function() { return 'pet' };
   five.swedish = function() { return 'fem' };
   five.thai = function() { return 'ห้า' };
+  five.turkish = function() { return 'beş' };
   five.choctaw = function() { return 'tahlapi' };
   five.piglatin = function() { return 'ivefay' };
   
